@@ -49,8 +49,7 @@ Once connected to the VM, we will install and enable Internet Information Servic
 <p align="center"> 
 Install PHP manager for IIS setup 
 <br/>
-
-![Screenshot 2024-09-26 005747](https://github.com/user-attachments/assets/ce927ca7-6eaf-4ea9-97ff-052664a5b0c6)
+<img src="https://i.ibb.co/8mQ0rTD/4.jpg" alt=""/>
 
 <br/>
 
@@ -58,7 +57,7 @@ Install PHP manager for IIS setup
 Install IIS Rewrite Module
 <br/>
 
-![Screenshot 2024-09-26 005834](https://github.com/user-attachments/assets/4b261216-fd0c-49f8-bc05-18c3e526934f)
+<img src="https://i.ibb.co/vLLxjqq/5.jpg" alt=""/>
 
 <br/>
 
@@ -66,7 +65,7 @@ Install IIS Rewrite Module
 After the installations are complete, we will need to create a PHP directory on the C drive
 <br/>
 
-![Screenshot 2024-09-26 010053](https://github.com/user-attachments/assets/dd313999-6911-4807-a196-592d1c6ddfcc)
+<img src="https://i.ibb.co/3MJr1C0/6.jpg" alt=""/>
 
 <br/>
 
@@ -74,7 +73,7 @@ After the installations are complete, we will need to create a PHP directory on 
 Download PHP and extract the zip file into the PHP directory you just created.
 <br/>
 
-![Screenshot 2024-09-26 010259](https://github.com/user-attachments/assets/f8dcdf73-c9cd-4819-a9d9-b5c09494399f)
+<img src="https://i.ibb.co/KW5yPDf/7.jpg" alt=""/>
 
 <br/>
 
@@ -82,7 +81,7 @@ Download PHP and extract the zip file into the PHP directory you just created.
 Install Microsoft Visual C++
 <br/>
 
-![Screenshot 2024-09-26 010458](https://github.com/user-attachments/assets/1323af5f-e106-41e0-997d-a2544739de75)
+<img src="https://i.ibb.co/NZ98c1r/8.jpg" alt=""/>
 
 <br/>
 
@@ -90,7 +89,7 @@ Install Microsoft Visual C++
 Install MySQL
 <br/>
 
-![Screenshot 2024-09-26 010639](https://github.com/user-attachments/assets/a08c80d2-4053-46f5-a080-6257e87edc08)
+<img src="https://i.ibb.co/4W5Q71P/9.jpg" alt=""/>
 
 <br/>
 
@@ -98,7 +97,7 @@ Install MySQL
 Next we will have to create log in credentials. Be sure to store them somewhere because we will need the password later. 
 <br/>
 
-![Screenshot 2024-09-26 010824](https://github.com/user-attachments/assets/19f51d9d-2b20-4efe-961f-a3b5ff912f3c)
+<img src="https://i.ibb.co/KNdSBH9/10.jpg" alt=""/>
 
 <br/>
 
@@ -106,7 +105,7 @@ Next we will have to create log in credentials. Be sure to store them somewhere 
 Open IIS as an Administrator 
 <br/>
 
-![image](https://github.com/user-attachments/assets/efd7af45-3c05-494f-af82-98b472bba129)
+<img src="https://i.ibb.co/KbTVDg3/11.jpg" alt=""/>
 
 <br/>
 
@@ -114,8 +113,9 @@ Open IIS as an Administrator
 Navigate to PHP manager and selecet "Register new PHP version". There should be a "php-cgi.exe" file that appears. Select it!
 <br/>
 
-![image](https://github.com/user-attachments/assets/ee50cd90-89c6-40ce-84af-1bc337df06b8)
-![image](https://github.com/user-attachments/assets/074f53a0-7f60-43bf-8dd0-c70aa5d74822)
+<img src="https://i.ibb.co/s5MxXTg/12.jpg" alt=""/>
+<img src="https://i.ibb.co/gwWx0ZX/13.jpg" alt=""/>
+
 
 <br/>
 
@@ -123,7 +123,7 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
  Under IIS, Select the osTicket VM and select "Restart" under Manage Server
 <br/>
 
-![image](https://github.com/user-attachments/assets/c0902483-0b3b-4f8a-9049-3d66a1691f9e)
+<img src="https://i.ibb.co/FgWbbnC/14.jpg" alt=""/>
 
 <br/>
 
@@ -131,7 +131,9 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 Download osTicket and copy the upload file to wwwroot file in the inetpub file
 <br/>
 
-![Screenshot 2024-09-26 011958](https://github.com/user-attachments/assets/f9feb4f2-4317-4219-87ed-3b06aee7ce46)
+<img src="https://i.ibb.co/31GDm5D/15.jpg" alt=""/>
+<img src="https://i.ibb.co/NNYXVwH/16.jpg" alt=""/>
+
 
 <br/>
 
@@ -139,7 +141,7 @@ Download osTicket and copy the upload file to wwwroot file in the inetpub file
 Rename the file "osTicket"
 <br/>
 
-![image](https://github.com/user-attachments/assets/0bb767f9-84ea-4a36-b8a9-0c2b68793298)
+<img src="https://i.ibb.co/Jt78dSP/17.jpg" alt=""/>
 
 <br/>
 
@@ -147,7 +149,7 @@ Rename the file "osTicket"
 Return to IIS and restart the serve. Next select *80 (http) 
 <br/>
 
-![image](https://github.com/user-attachments/assets/205c2ef6-f94b-4d3e-8b34-ce95539a08f4)
+<img src="https://i.ibb.co/vQF7n7M/18.jpg" alt=""/>
 
 <br/>
 
@@ -155,24 +157,23 @@ Return to IIS and restart the serve. Next select *80 (http)
 This page will open. The red "X's" indicate the extensions that aren't enabled 
 <br/>
 
-![Screenshot 2024-09-26 013049](https://github.com/user-attachments/assets/8f0ccf2e-aca3-4766-9f11-52fae724d724)
+<img src="https://i.ibb.co/wRpmRgp/19.jpg" alt=""/>
 
 <br/>
 
 <p align="center">
-Navigate over to IIS> Sites> Default Web Site> osTicket. Seleect PHP manager> Enable : php_imap.dll, php_intl.dll, php_opache.dll
+Navigate over to IIS> Sites> Default Web Site> osTicket. Select PHP manager> Enable : php_imap.dll, php_intl.dll, php_opache.dll
 <br/>
 
-![image](https://github.com/user-attachments/assets/2952e9f2-055a-4207-b1a7-3e9506f99c7f)
-![image](https://github.com/user-attachments/assets/300e0670-3d41-430e-8554-8e3bba62fcc3)
+<img src="https://i.ibb.co/W0tTgmw/20.jpg" alt=""/>
 
 <br/>
 
 <p align="center">
-Afte enabling the PHP extenions. We can observe the changes 
+Afte enabling the PHP extenions. We can observe the changes. 
 <br/>
 
-![Screenshot 2024-09-26 013818](https://github.com/user-attachments/assets/da0a12f9-1c65-45ce-8c58-bfc720df4983)
+<img src="https://i.ibb.co/b7fVXzC/21.jpg" alt=""/>
 
 <br/>
 
@@ -180,7 +181,7 @@ Afte enabling the PHP extenions. We can observe the changes
 Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. Next we're going to remove the "sample" from the file name
 <br/>
 
-![image](https://github.com/user-attachments/assets/09d8a0db-0dc3-4176-bb08-3da861dc30c5)
+<img src="https://i.ibb.co/G2thSYc/22.jpg" alt=""/>
 
 <br/> 
 
@@ -188,7 +189,7 @@ Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. 
 Right- click on ost-config.php> Properties> Security> Advanced> Disable Inheritance> Remove all inherited permissions from this object. Select the Add button to add permissions to the file> type "Everyone" > Check> OK> check all permissions> ok? apply> ok
 <br/>
 
-![Screenshot 2024-09-26 014427](https://github.com/user-attachments/assets/d659e04a-8f75-445a-94ba-8ddcce07f08e)
+<img src="https://i.ibb.co/S6KZX5Z/23.jpg" alt=""/>
 
 <br/>
 
@@ -196,7 +197,7 @@ Right- click on ost-config.php> Properties> Security> Advanced> Disable Inherita
 Continue on the osTicket web page and fill out the set up page
 <br/>
 
-![Screenshot 2024-09-26 014619](https://github.com/user-attachments/assets/8477c6d0-1f99-4078-8a7f-46ad8cdd7464)
+<img src="https://i.ibb.co/BgGWgfn/24.jpg" alt=""/>
 
 <br/>
 
@@ -204,7 +205,7 @@ Continue on the osTicket web page and fill out the set up page
 Install HeidiSQL
 <br/>
 
-![Screenshot 2024-09-26 014845](https://github.com/user-attachments/assets/ca330376-a685-42c6-96c5-a3cb88106bf0)
+<img src="https://i.ibb.co/C0T7wkf/25.jpg" alt=""/>
 
 <br/>
 
@@ -212,8 +213,9 @@ Install HeidiSQL
 After installation select New> Username> root> password> MySQL password we setup earlier in the MySQL setup> OPEN. Next on the left side, we will right-clik " unnamed" and create a new database named "osTicket". 
 <br/>
   
-![image](https://github.com/user-attachments/assets/dca9c043-e43a-4420-bd56-56162a5f895c)
-![Screenshot 2024-09-26 015836](https://github.com/user-attachments/assets/1b151c48-2c59-49ee-a61e-3fc11b46bd4a)
+<img src="https://i.ibb.co/59yzcGC/26.jpg" alt=""/>
+<img src="https://i.ibb.co/YP0xS0g/27.jpg" alt=""/>
+
 
 <br/>
 
@@ -221,8 +223,8 @@ After installation select New> Username> root> password> MySQL password we setup
 Select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 
-![Screenshot 2024-09-26 020103](https://github.com/user-attachments/assets/5a45773f-6dec-487f-907f-b23901c8db1b)
-![Screenshot 2024-09-26 020240](https://github.com/user-attachments/assets/ad08dafe-fe27-4758-bea5-6d26168610d5)
+<img src="https://i.ibb.co/zhVMSmf/28.jpg" alt=""/>
+<img src="https://i.ibb.co/Rz805hL/29.jpg" alt=""/>
 
 
 
