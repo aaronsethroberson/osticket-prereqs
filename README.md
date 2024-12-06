@@ -23,17 +23,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 To begin this project, we will utilize Microsoft Azure to create a Virtual Machine (VM) for building osTicket from scratch. Using a VM helps protect our personal computers from potential malfunctions or issues. In Microsoft Azure, start by creating a "Resource Group" and naming it "osTicket." Next, set up a VM with 2-4 virtual CPUs (vCPUs).
 <br/>
 <br/>
-<img src="https://i.ibb.co/C9Mjwwp/1.jpg" alt="osTicket logo"/>
+<img src="https://i.ibb.co/C9Mjwwp/1.jpg" alt=""/>
 
 <br/>
 <br/>
 
 
-<p align="cneter">
+<p align="center">
 Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM to our personal computers. Mac users should download the RDP client from the App Store before continuing.<br/>
 <br/>
 
-<img src="https://i.ibb.co/TqKgsPk/2.jpg" alt="osTicket logo"/>
+<img src="https://i.ibb.co/TqKgsPk/2.jpg" alt=""/>
 
 <br/>
 
@@ -41,7 +41,7 @@ Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM 
 Once connected to the VM, we will install and enable Internet Information Services (IIS). Start by navigating to Control Panel > Programs > Turn Windows Features On or Off. From there, enable Internet Information Services. Then, expand "World Wide Web Services," navigate to "Application Development Features," and activate CGI.
 <br/>
 <br/>
-<img src="https://i.ibb.co/jGXHwjF/3.jpg" alt="osTicket logo"/>
+<img src="https://i.ibb.co/jGXHwjF/3.jpg" alt=""/>
 
 
 <br/>
