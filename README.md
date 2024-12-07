@@ -19,7 +19,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Project Walk-through</h2>
 
-<p align="center">
 To begin this project, we will utilize Microsoft Azure to create a Virtual Machine (VM) for building osTicket from scratch. Using a VM helps protect our personal computers from potential malfunctions or issues. In Microsoft Azure, start by creating a "Resource Group" and naming it "osTicket." Next, set up a VM with 2-4 virtual CPUs (vCPUs).
 <br/>
 <br/>
@@ -29,7 +28,6 @@ To begin this project, we will utilize Microsoft Azure to create a Virtual Machi
 <br/>
 
 
-<p align="center">
 Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM to our personal computers. Mac users should download the RDP client from the App Store before continuing.<br/>
 <br/>
 
@@ -39,7 +37,6 @@ Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM 
 <br/>
 
 
-<p align="center"> 
 Once connected to the VM, we will install and enable Internet Information Services (IIS). Start by navigating to Control Panel > Programs > Turn Windows Features On or Off. From there, enable Internet Information Services. Then, expand "World Wide Web Services," navigate to "Application Development Features," and activate CGI.
 <br/>
 <br/>
@@ -50,7 +47,6 @@ Once connected to the VM, we will install and enable Internet Information Servic
 <br/>
 
 
-<p align="center"> 
 Install PHP manager for IIS setup 
 <br/>
 <br/>
@@ -61,7 +57,6 @@ Install PHP manager for IIS setup
 <br/>
 
 
-<p align="center">
 Install IIS Rewrite Module
 <br/>
 <br/>
@@ -73,7 +68,6 @@ Install IIS Rewrite Module
 <br/>
 
 
-<p align="center">
 After the installations are complete, we will need to create a PHP directory on the C drive
 <br/>
 <br/>
@@ -84,7 +78,6 @@ After the installations are complete, we will need to create a PHP directory on 
 <br/>
 <br/>
 
-<p align="center">
 Download PHP and extract the zip file into the PHP directory you just created.
 <br/>
 <br/>
@@ -95,7 +88,6 @@ Download PHP and extract the zip file into the PHP directory you just created.
 <br/>
 <br/>
 
-<p align="center">
 Install Microsoft Visual C++
 <br/>
 <br/>
@@ -106,7 +98,6 @@ Install Microsoft Visual C++
 <br/>
 <br/>
 
-<p align="center">
 Install MySQL
 <br/>
 <br/>
@@ -117,7 +108,6 @@ Install MySQL
 <br/>
 <br/>
 
-<p align="center">
 Next we will have to create log in credentials. Be sure to store them somewhere because we will need the password later. 
 <br/>
 <br/>
@@ -128,7 +118,6 @@ Next we will have to create log in credentials. Be sure to store them somewhere 
 <br/>
 <br/>
 
-<p align="center">
 Open IIS as an Administrator 
 <br/>
 <br/>
@@ -139,7 +128,6 @@ Open IIS as an Administrator
 <br/>
 <br/>
 
-<p align="center">
 Navigate to PHP manager and selecet "Register new PHP version". There should be a "php-cgi.exe" file that appears. Select it!
 <br/>
 <br/>
@@ -152,7 +140,6 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 <br/>
 <br/>
 
-<p align="center">
  Under IIS, Select the osTicket VM and select "Restart" under Manage Server
 <br/>
 <br/>
@@ -163,7 +150,6 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 <br/>
 <br/>
 
-<p align="center">
 Download osTicket and copy the upload file to wwwroot file in the inetpub file
 <br/>
 <br/>
@@ -176,7 +162,6 @@ Download osTicket and copy the upload file to wwwroot file in the inetpub file
 <br/>
 <br/>
 
-<p align="center">
 Rename the file "osTicket"
 <br/>
 <br/>
@@ -187,7 +172,6 @@ Rename the file "osTicket"
 <br/>
 <br/>
 
-<p align="center">
 Return to IIS and restart the serve. Next select *80 (http) 
 <br/>
 <br/>
@@ -198,7 +182,6 @@ Return to IIS and restart the serve. Next select *80 (http)
 <br/>
 <br/>
 
-<p align="center">
 This page will open. The red "X's" indicate the extensions that aren't enabled 
 <br/>
 <br/>
@@ -209,7 +192,6 @@ This page will open. The red "X's" indicate the extensions that aren't enabled
 <br/>
 <br/>
 
-<p align="center">
 Navigate over to IIS> Sites> Default Web Site> osTicket. Select PHP manager> Enable : php_imap.dll, php_intl.dll, php_opache.dll
 <br/>
 <br/>
@@ -220,7 +202,6 @@ Navigate over to IIS> Sites> Default Web Site> osTicket. Select PHP manager> Ena
 <br/>
 <br/>
 
-<p align="center">
 Afte enabling the PHP extenions. We can observe the changes. 
 <br/>
 <br/>
@@ -230,7 +211,6 @@ Afte enabling the PHP extenions. We can observe the changes.
 <br/>
 <br/>
 
-<p align="center">
 Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. Next we're going to remove the "sample" from the file name
 <br/>
 <br/>
@@ -241,7 +221,6 @@ Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. 
 <br/> 
 <br/>
 
-<p align="center">
 Right- click on ost-config.php> Properties> Security> Advanced> Disable Inheritance> Remove all inherited permissions from this object. Select the Add button to add permissions to the file> type "Everyone" > Check> OK> check all permissions> ok? apply> ok
 <br/>
 <br/>
@@ -252,7 +231,6 @@ Right- click on ost-config.php> Properties> Security> Advanced> Disable Inherita
 <br/>
 <br/>
 
-<p align="center">
 Continue on the osTicket web page and fill out the set up page
 <br/>
 <br/>
@@ -263,7 +241,6 @@ Continue on the osTicket web page and fill out the set up page
 <br/>
 <br/>
 
-<p align="center"> 
 Install HeidiSQL
 <br/>
 <br/>
@@ -274,7 +251,6 @@ Install HeidiSQL
 <br/>
 <br/>
 
-<p align="center"> 
 After installation select New> Username> root> password> MySQL password we setup earlier in the MySQL setup> OPEN. Next on the left side, we will right-clik " unnamed" and create a new database named "osTicket". 
 <br/>
 <br/>
@@ -287,7 +263,6 @@ After installation select New> Username> root> password> MySQL password we setup
 <br/>
 <br/>
 
-<p align="center">
 Select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 <br/>
