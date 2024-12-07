@@ -263,7 +263,7 @@ After installation select New> Username> root> password> MySQL password we setup
 <br/>
 <br/>
 
-Select Install and you should recieve a "Congratulations" from osTicket
+Lastly, select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 <br/>
 
