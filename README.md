@@ -51,7 +51,7 @@ Install PHP manager for IIS setup
 <br/>
 <br/>
 
-<img src="https://i.ibb.co/8mQ0rTD/4.jpg" alt=""/>
+<img src="https://i.postimg.cc/PJHqf3m4/4.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Install IIS Rewrite Module
 <br/>
 
 
-<img src="https://i.ibb.co/vLLxjqq/5.jpg" alt=""/>
+<img src="https://i.postimg.cc/GhcpZf33/5.jpg" alt=""/>
 
 <br/>
 <br/>
