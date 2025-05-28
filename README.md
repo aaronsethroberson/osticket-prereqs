@@ -187,7 +187,7 @@ This page will open. The red "X's" indicate the extensions that aren't enabled
 <br/>
 
 
-<img src="https://i.ibb.co/wRpmRgp/19.jpg" alt=""/>
+<img src="https://i.postimg.cc/L6dW5dgR/19.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -216,7 +216,7 @@ Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. 
 <br/>
 
 
-<img src="https://i.ibb.co/G2thSYc/22.jpg" alt=""/>
+<img src="https://i.postimg.cc/DzYjKR39/22.jpg" alt=""/>
 
 <br/> 
 <br/>
@@ -226,7 +226,7 @@ Right- click on ost-config.php> Properties> Security> Advanced> Disable Inherita
 <br/>
 
 
-<img src="https://i.ibb.co/S6KZX5Z/23.jpg" alt=""/>
+<img src="https://i.postimg.cc/vBgP8XQc/23.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -268,8 +268,8 @@ Lastly, select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 
 
-<img src="https://i.ibb.co/zhVMSmf/28.jpg" alt=""/>
-<img src="https://i.ibb.co/Rz805hL/29.jpg" alt=""/>
+<img src="https://i.postimg.cc/Hxq6r5x3/28.jpg" alt=""/>
+<img src="https://i.postimg.cc/GtvqG2TR/29.jpg" alt=""/>
 
 
 
