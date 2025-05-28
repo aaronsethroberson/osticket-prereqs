@@ -93,7 +93,7 @@ Install Microsoft Visual C++
 <br/>
 
 
-<img src="https://i.ibb.co/NZ98c1r/8.jpg" alt=""/>
+<img src="https://i.postimg.cc/W1qcKmZb/8.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -103,7 +103,7 @@ Install MySQL
 <br/>
 
 
-<img src="https://i.ibb.co/4W5Q71P/9.jpg" alt=""/>
+<img src="https://i.postimg.cc/QtXPXcF7/9.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -113,7 +113,7 @@ Next we will have to create log in credentials. Be sure to store them somewhere 
 <br/>
 
 
-<img src="https://i.ibb.co/KNdSBH9/10.jpg" alt=""/>
+<img src="https://i.postimg.cc/25xcX30S/10.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -123,7 +123,7 @@ Open IIS as an Administrator
 <br/>
 
 
-<img src="https://i.ibb.co/KbTVDg3/11.jpg" alt=""/>
+<img src="https://i.postimg.cc/T3VCppMJ/11.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -145,7 +145,7 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 <br/>
 
 
-<img src="https://i.ibb.co/FgWbbnC/14.jpg" alt=""/>
+<img src="https://i.postimg.cc/k57w8q73/14.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -155,8 +155,8 @@ Download osTicket and copy the upload file to wwwroot file in the inetpub file
 <br/>
 
 
-<img src="https://i.ibb.co/31GDm5D/15.jpg" alt=""/>
-<img src="https://i.ibb.co/NNYXVwH/16.jpg" alt=""/>
+<img src="https://i.postimg.cc/28vP7jNV/15.jpg" alt=""/>
+<img src="https://i.postimg.cc/JnGFDMQ7/16.jpg" alt=""/>
 
 
 <br/>
