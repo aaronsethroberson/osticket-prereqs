@@ -40,8 +40,8 @@ Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM 
 Once connected to the VM, we will install and enable Internet Information Services (IIS). Start by navigating to Control Panel > Programs > Turn Windows Features On or Off. From there, enable Internet Information Services. Then, expand "World Wide Web Services," navigate to "Application Development Features," and activate CGI.
 <br/>
 <br/>
+<img src="https://i.postimg.cc/7h0RxXxq/3.jpg" alt=""/>
 
-![Alt text](https://i.ibb.co/jGXHwjF/3.jpg)
 
 <br/>
 <br/>
