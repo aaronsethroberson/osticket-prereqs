@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 To begin this project, we will utilize Microsoft Azure to create a Virtual Machine (VM) for building osTicket from scratch. Using a VM helps protect our personal computers from potential malfunctions or issues. In Microsoft Azure, start by creating a "Resource Group" and naming it "osTicket." Next, set up a VM with 2-4 virtual CPUs (vCPUs).
 <br/>
 <br/>
-<img src="https://i.ibb.co/C9Mjwwp/1.jpg" alt=""/>
+<img src="https://i.postimg.cc/2SF23Pdb/1.jpg" alt=""/>
 
 <br/>
 <br/>
