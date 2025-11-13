@@ -31,7 +31,7 @@ To begin this project, we will utilize Microsoft Azure to create a Virtual Machi
 Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM to our personal computers. Mac users should download the RDP client from the App Store before continuing.<br/>
 <br/>
 
-<img src="https://i.ibb.co/TqKgsPk/2.jpg" alt=""/>
+<img src="https://raw.githubusercontent.com/aaronsethroberson/osticket-prereqs/70ff49489cac8e948ca8c3eb0122a02417ad109c/2.jpg" alt=""/>
 
 <br/>
 <br/>
