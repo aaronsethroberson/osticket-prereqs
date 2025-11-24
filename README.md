@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 To begin this project, we will utilize Microsoft Azure to create a Virtual Machine (VM) for building osTicket from scratch. Using a VM helps protect our personal computers from potential malfunctions or issues. In Microsoft Azure, start by creating a "Resource Group" and naming it "osTicket." Next, set up a VM with 2-4 virtual CPUs (vCPUs).
 <br/>
 <br/>
-<img src="https://i.postimg.cc/2SF23Pdb/1.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/1.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -40,7 +40,7 @@ Next, we will use Remote Desktop Protocol (RDP) to connect the newly created VM 
 Once connected to the VM, we will install and enable Internet Information Services (IIS). Start by navigating to Control Panel > Programs > Turn Windows Features On or Off. From there, enable Internet Information Services. Then, expand "World Wide Web Services," navigate to "Application Development Features," and activate CGI.
 <br/>
 <br/>
-<img src="https://i.postimg.cc/7h0RxXxq/3.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/3.jpg" alt=""/>
 
 
 <br/>
@@ -51,7 +51,7 @@ Install PHP manager for IIS setup
 <br/>
 <br/>
 
-<img src="https://i.postimg.cc/PJHqf3m4/4.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/4.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Install IIS Rewrite Module
 <br/>
 
 
-<img src="https://i.postimg.cc/GhcpZf33/5.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/5.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -93,7 +93,7 @@ Install Microsoft Visual C++
 <br/>
 
 
-<img src="https://i.postimg.cc/W1qcKmZb/8.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/8.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -103,7 +103,7 @@ Install MySQL
 <br/>
 
 
-<img src="https://i.postimg.cc/QtXPXcF7/9.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/9.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -113,7 +113,7 @@ Next we will have to create log in credentials. Be sure to store them somewhere 
 <br/>
 
 
-<img src="https://i.postimg.cc/25xcX30S/10.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/10.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -123,7 +123,7 @@ Open IIS as an Administrator
 <br/>
 
 
-<img src="https://i.postimg.cc/T3VCppMJ/11.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/11.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -133,8 +133,8 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 <br/>
 
 
-<img src="https://i.ibb.co/s5MxXTg/12.jpg" alt=""/>
-<img src="https://i.ibb.co/gwWx0ZX/13.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/12.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/13.jpg" alt=""/>
 
 
 <br/>
@@ -145,7 +145,7 @@ Navigate to PHP manager and selecet "Register new PHP version". There should be 
 <br/>
 
 
-<img src="https://i.postimg.cc/k57w8q73/14.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/14.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -155,8 +155,8 @@ Download osTicket and copy the upload file to wwwroot file in the inetpub file
 <br/>
 
 
-<img src="https://i.postimg.cc/28vP7jNV/15.jpg" alt=""/>
-<img src="https://i.postimg.cc/JnGFDMQ7/16.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/15.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/16.jpg" alt=""/>
 
 
 <br/>
@@ -167,7 +167,7 @@ Rename the file "osTicket"
 <br/>
 
 
-<img src="https://i.ibb.co/Jt78dSP/17.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/17.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -177,7 +177,7 @@ Return to IIS and restart the serve. Next select *80 (http)
 <br/>
 
 
-<img src="https://i.ibb.co/vQF7n7M/18.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/18.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -187,7 +187,7 @@ This page will open. The red "X's" indicate the extensions that aren't enabled
 <br/>
 
 
-<img src="https://i.postimg.cc/L6dW5dgR/19.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/19.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -216,7 +216,7 @@ Browse over to file explorer > C drive> osTicket> include> ostsampleconfig.php. 
 <br/>
 
 
-<img src="https://i.postimg.cc/DzYjKR39/22.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/22.jpg" alt=""/>
 
 <br/> 
 <br/>
@@ -226,7 +226,7 @@ Right- click on ost-config.php> Properties> Security> Advanced> Disable Inherita
 <br/>
 
 
-<img src="https://i.postimg.cc/vBgP8XQc/23.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/23.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -268,8 +268,8 @@ Lastly, select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 
 
-<img src="https://i.postimg.cc/Hxq6r5x3/28.jpg" alt=""/>
-<img src="https://i.postimg.cc/GtvqG2TR/29.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/28.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/29.jpg" alt=""/>
 
 
 
