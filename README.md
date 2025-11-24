@@ -73,7 +73,7 @@ After the installations are complete, we will need to create a PHP directory on 
 <br/>
 
 
-<img src="https://i.ibb.co/3MJr1C0/6.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/6.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -83,7 +83,7 @@ Download PHP and extract the zip file into the PHP directory you just created.
 <br/>
 
 
-<img src="https://i.ibb.co/KW5yPDf/7.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/7.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -197,7 +197,7 @@ Navigate over to IIS> Sites> Default Web Site> osTicket. Select PHP manager> Ena
 <br/>
 
 
-<img src="https://i.ibb.co/W0tTgmw/20.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/20.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -206,7 +206,7 @@ After enabling the PHP extenions. We can observe the changes.
 <br/>
 <br/>
 
-<img src="https://i.ibb.co/b7fVXzC/21.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/21.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -236,7 +236,7 @@ Continue on the osTicket web page and fill out the set up page
 <br/>
 
 
-<img src="https://i.ibb.co/BgGWgfn/24.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/24.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -246,7 +246,7 @@ Install HeidiSQL
 <br/>
 
 
-<img src="https://i.ibb.co/C0T7wkf/25.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/25.jpg" alt=""/>
 
 <br/>
 <br/>
@@ -256,8 +256,8 @@ After installation select New> Username> root> password> MySQL password we setup
 <br/>
 
   
-<img src="https://i.ibb.co/59yzcGC/26.jpg" alt=""/>
-<img src="https://i.ibb.co/YP0xS0g/27.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/26.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/osticket-prereqs/blob/main/27.jpg" alt=""/>
 
 
 <br/>
