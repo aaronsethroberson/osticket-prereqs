@@ -202,7 +202,7 @@ Navigate over to IIS> Sites> Default Web Site> osTicket. Select PHP manager> Ena
 <br/>
 <br/>
 
-Afte enabling the PHP extenions. We can observe the changes. 
+After enabling the PHP extenions. We can observe the changes. 
 <br/>
 <br/>
 
